@@ -1,1 +1,5 @@
 hello git
+<<<<<<< HEAD
+=======
+hello shiyanlou
+>>>>>>> 04b95f2397f068835d34da83c1de8c76a65880c5
